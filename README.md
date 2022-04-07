@@ -5,9 +5,9 @@ This is a project to apply knowledge in CSS and JavaScript for web development
 
 Este proyecto consiste en 2 secciones princiales
 
-La primera es la seccion de los `.targets` del HTML:ç
+- La primera es la seccion de los `.targets` del HTML:ç
 
-```
+```HTML
 <div class="targets" id="t1">
   <h2>Templates</h2>
 </div>
@@ -22,7 +22,7 @@ La primera es la seccion de los `.targets` del HTML:ç
 ```
 
 Esta seccion actualmente se está utilizando para probar el .addEventListener con JavaScript con el siguiente codigo:
-```
+```javascript
 const tuno = document.querySelector("#t1");
 const tdos = document.querySelector("#t2");
 const ttres = document.querySelector("#t3");
@@ -34,4 +34,4 @@ tdos.addEventListener('click', redirectionDos);
 ttres.addEventListener('click', redirectionTres);`
 ```
 
-La otra sección tiene como proyección redireccionar a un futuro div del archivo HTML utilizando JavaScript
+- La otra sección tiene como proyección redireccionar a un futuro div del archivo HTML utilizando JavaScript
