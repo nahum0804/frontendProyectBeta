@@ -5,10 +5,12 @@ This is a project to apply knowledge in CSS and JavaScript for web development
 
 Este proyecto consiste en 2 secciones princiales
 
-La primera es la seccion de los _.targets_ del HTML:
+La primera es la seccion de los `.targets` del HTML:
 
 `
-Templates
+<div class="targets" id="t1">
+  <h2>Templates</h2>
+</div>
 
 <div class="targets" id="t2">
   <h2>Elements</h2>
