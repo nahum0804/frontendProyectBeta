@@ -1,4 +1,4 @@
-# frontendProyectBeta
+# Frontend Proyect Beta
 This is a project to apply knowledge in CSS and JavaScript for web development
 
 
